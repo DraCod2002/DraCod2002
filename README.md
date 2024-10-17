@@ -1,5 +1,6 @@
-# 💫 About Me:
-<br>Hey, I'm Pedro Hernández 👋<br>Acerca de mí:<br>Soy un apasionado Backend Developer de Lima, Perú, con experiencia en tecnologías como .NET, ASP.NET, C# y SQL Server. Con formación en diseño y desarrollo de software, me dedico a crear soluciones backend eficientes y escalables que soporten aplicaciones robustas y de alto rendimiento.<br><br>Sobre mí:<br>🔧 Actualmente, trabajo en proyectos backend, diseñando APIs y optimizando bases de datos para ofrecer soluciones seguras y eficientes.<br>📚 Estoy en constante aprendizaje, explorando nuevas tecnologías y herramientas para mejorar mis habilidades en .NET y la arquitectura de software.
+#💫 About Me:
+<br>Hey, I'm Pedro Hernández 👋<br>Acerca de mí:<br>Soy un apasionado Frontend Developer de Lima, Perú, con experiencia en tecnologías como Angular, Node.js y NestJS. Con formación en diseño y desarrollo de software, me dedico a crear interfaces de usuario dinámicas y escalables que mejoren la experiencia del usuario en aplicaciones robustas y de alto rendimiento.<br><br>Sobre mí:<br>🔧 Actualmente, trabajo en proyectos frontend, desarrollando interfaces y conectando APIs para ofrecer soluciones rápidas y optimizadas.<br>📚 Estoy en constante aprendizaje, explorando nuevas tecnologías y herramientas para mejorar mis habilidades en Angular, Node.js y la arquitectura de software.
+
 
 
 ## 🌐 Socials:
